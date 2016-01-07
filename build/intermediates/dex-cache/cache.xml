@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-10c69d2954664b94c9c3657e9a32fef9a6a5cc39.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/pre-dexed/debug/classes-aed6b36e1328e2a760db7e5d13691bf991a4120d.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-109e5adfd21035535f15f46890bb1aa91ee9e039.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/pre-dexed/debug/classes-d63e82b359f451b6b78aa4755879bc920f20a562.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/pre-dexed/debug/okio-1.4.0-96e66314d117c6cc082907572f361995e7b35e33.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-b1d5eab04496c307103a91af9355474382e89d42.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/pre-dexed/debug/gson-2.3.1-29cb5e2accdfbb9ce4e6d098aae35365ce191f49.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/macbookpro/Downloads/RetroFitExample/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-0e54a3ffdf3a55be21c997cc6edb945c706e45c4.jar" />
+    </item>
+
+</items>
